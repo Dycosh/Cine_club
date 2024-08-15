@@ -59,7 +59,7 @@ class Movie():
 
 if __name__ == "__main__":
     movies = get_movies()    
-    print(movies)
+    
 
 
  
